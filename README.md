@@ -16,7 +16,7 @@ Quality Up'S upscales and sharpens images entirely on your machine. Nothing is u
 | **Developer** | [emirttac](https://github.com/emirttac) |
 | **Repository** | [emirttac/Quality-Up-S](https://github.com/emirttac/Quality-Up-S) |
 
-<img width="1802" height="1460" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/db5d6cc9-e9f6-4905-b6d5-a692b5678a4b" />
+<img width="1802" height="1460" alt="image" src="https://github.com/user-attachments/assets/edfe7194-e762-43e8-88ce-e82e729766de" />
 
 ## Table of contents
 
