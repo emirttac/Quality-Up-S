@@ -1,0 +1,2 @@
+# Build / packaging dependencies (install into the project venv when releasing)
+pyinstaller>=6.3.0
